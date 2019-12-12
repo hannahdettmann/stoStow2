@@ -1,20 +1,5 @@
-# Chirper Project
+# StoStow
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+This project was created to aid in the organization of student governmet storage. The application allows users to add new items to storage as well search and locate items already in storage. Eventually, we hope to implement a system which allows users to 'check out' items and update the database accordingly. 
 
-Most of the commits in this repository correspond to videos in the program.
-
-## Project Setup
-
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
-* install the dependencies - `npm install`
-
-## Contributing
-
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
-
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
-
-## License
-
-MIT
+This project will not only save time for students who are locating items, it is also projected to save money and ensure students are not re-buying products which already exist. 
